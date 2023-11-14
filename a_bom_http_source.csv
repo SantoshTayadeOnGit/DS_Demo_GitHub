@@ -1,4 +1,4 @@
-Ex_Id,Asset_ID__cEx,Asset_Name_Ex,Asset_ParentID_Ex,Asset_Description_Ex
+Ex_Id,Asset_ID_Ex,Asset_Name_Ex,Asset_ParentID_Ex,Asset_Description_Ex
 1,120,Asset F1 1_ExcelNameCol,,Testi_ExcelDescCol
 2,121,Asset f1 2_ExcelNameCol,120,Moduli_ExcelDescCol
 3,124,Siru 4_ExcelNameCol_UnwantedData,1485646,Empty_ExcelDescCol
