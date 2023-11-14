@@ -1,8 +1,8 @@
 Ex_Id,Asset_ID__cEx,Asset_Name_Ex,Asset_ParentID_Ex,Asset_Description_Ex
-1,120,Asset F1 1_ExcelNameCol,,Testi
-2,121,Asset f1 2_ExcelNameCol,120,Moduli
-3,124,Siru 4_ExcelNameCol_UnwantedData,1485646,
-4,12355,Main1_ExcelNameCol_UnwantedData,,Description
+1,120,Asset F1 1_ExcelNameCol,,Testi_ExcelDescCol
+2,121,Asset f1 2_ExcelNameCol,120,Moduli_ExcelDescCol
+3,124,Siru 4_ExcelNameCol_UnwantedData,1485646,Empty_ExcelDescCol
+4,12355,Main1_ExcelNameCol_UnwantedData,,Description_ExcelDescCol
 5,23124,Kompo2_ExcelNameCol_UnwantedData,1485646,Testi_ExcelDescCol
 6,63879,a007Q00000CAA4h_ExcelNameCol_UnwantedData,8422190,Moduli_ExcelDescCol
 7,63944,a007Q00000CA9sJ_ExcelNameCol_UnwantedData,8450788,_ExcelDescCol
